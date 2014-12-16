@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>This is a test question. Choose C!</string>
+			<key>A</key>
+			<string>This is choice A</string>
+			<key>B</key>
+			<string>This is choice B</string>
+			<key>C</key>
+			<string>This is choice C</string>
+			<key>D</key>
+			<string>This is choice D</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In what country would you most likely encounter a Tasmanian devil?</string>
+			<key>A</key>
+			<string>Indonesia</string>
+			<key>B</key>
+			<string>Australia</string>
+			<key>C</key>
+			<string>Jamaca</string>
+			<key>D</key>
+			<string>Canada</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What US state capital is located on the Hudson River?</string>
+			<key>A</key>
+			<string>Albany</string>
+			<key>B</key>
+			<string>Saint Louis</string>
+			<key>C</key>
+			<string>Milwaukee</string>
+			<key>D</key>
+			<string>Atlanta</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which British passanger cruise liner did a German U-boat sink on May 7th 1915?</string>
+			<key>A</key>
+			<string>SS President Coolidge</string>
+			<key>B</key>
+			<string>Titanic</string>
+			<key>C</key>
+			<string>L.R. Doty</string>
+			<key>D</key>
+			<string>RMS Lusitania</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What does a panophobe fear?</string>
+			<key>A</key>
+			<string>The ocean</string>
+			<key>B</key>
+			<string>Other people</string>
+			<key>C</key>
+			<string>Raccoons</string>
+			<key>D</key>
+			<string>Everything</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What does a panophobe fear?</string>
+			<key>A</key>
+			<string>The ocean</string>
+			<key>B</key>
+			<string>Other people</string>
+			<key>C</key>
+			<string>Raccoons</string>
+			<key>D</key>
+			<string>Everything</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In which year did Heinz&apos;s tomato ketchup launch?</string>
+			<key>A</key>
+			<string>1876</string>
+			<key>B</key>
+			<string>1993</string>
+			<key>C</key>
+			<string>1924</string>
+			<key>D</key>
+			<string>1899</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The Nobel Prize for Literature is presented in what Scandinavian city?</string>
+			<key>A</key>
+			<string>Oslo, Norway</string>
+			<key>B</key>
+			<string>Copenhagen, Denmark</string>
+			<key>C</key>
+			<string>Stockholm, Sweden</string>
+			<key>D</key>
+			<string>Helsinki, Finland</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What distance did the Romans once define as a thousand paces?</string>
+			<key>A</key>
+			<string>1 mile</string>
+			<key>B</key>
+			<string>100 yards</string>
+			<key>C</key>
+			<string>263 feet</string>
+			<key>D</key>
+			<string>130 yards</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In pool, what color is the 6-ball?</string>
+			<key>A</key>
+			<string>Yellow</string>
+			<key>B</key>
+			<string>Green</string>
+			<key>C</key>
+			<string>Red</string>
+			<key>D</key>
+			<string>Orange</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What was the only color Johny Cash wore on stage?</string>
+			<key>A</key>
+			<string>Green</string>
+			<key>B</key>
+			<string>Blue</string>
+			<key>C</key>
+			<string>Red</string>
+			<key>D</key>
+			<string>Black</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In the TV show &quot;The Simpsons&quot;, what is the name of Marge&apos;s mother?</string>
+			<key>A</key>
+			<string>Jacqueline Bouvier</string>
+			<key>B</key>
+			<string>Lizzy Warner</string>
+			<key>C</key>
+			<string>Barbara McSmith</string>
+			<key>D</key>
+			<string>Rebecca Simpson</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Who is the creator of this game?</string>
+			<key>A</key>
+			<string>Price Willoch</string>
+			<key>B</key>
+			<string>Wilber Clonts</string>
+			<key>C</key>
+			<string>Matthew Mohandiss</string>
+			<key>D</key>
+			<string>Zach Camp</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The offspring of a male lion and a female tiger is known by what name?</string>
+			<key>A</key>
+			<string>Tion</string>
+			<key>B</key>
+			<string>Liger</string>
+			<key>C</key>
+			<string>Liotiger</string>
+			<key>D</key>
+			<string>Tigon</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which company is the largest manufacturer of tires?</string>
+			<key>A</key>
+			<string>Lego</string>
+			<key>B</key>
+			<string>Michelin</string>
+			<key>C</key>
+			<string>Bridgestone</string>
+			<key>D</key>
+			<string>Goodyear</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What creatures are referred to as goblins in the book &quot;The Hobbit&quot;?</string>
+			<key>A</key>
+			<string>Bëorians</string>
+			<key>B</key>
+			<string>Trolls</string>
+			<key>C</key>
+			<string>Silvan Elves</string>
+			<key>D</key>
+			<string>Orcs</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the capital of the state of Texas?</string>
+			<key>A</key>
+			<string>Houston</string>
+			<key>B</key>
+			<string>Austin</string>
+			<key>C</key>
+			<string>Dallas</string>
+			<key>D</key>
+			<string>Galveston</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What was the first video game console to implement online play</string>
+			<key>A</key>
+			<string>Microsoft Xbox</string>
+			<key>B</key>
+			<string>Atari Lynx</string>
+			<key>C</key>
+			<string>Nintendo 64</string>
+			<key>D</key>
+			<string>Sega Dreamcast</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What does &quot;AT&amp;T&quot; stand for?</string>
+			<key>A</key>
+			<string>Atlantic Telephone &amp; Telegraph</string>
+			<key>B</key>
+			<string>Albany Type &amp; Talk</string>
+			<key>C</key>
+			<string>American Telephone &amp; Telegraph Company</string>
+			<key>D</key>
+			<string>American Telegraph &amp; Talk</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which planet in our solar system is known as the Earth&apos;s twin?</string>
+			<key>A</key>
+			<string>Venus</string>
+			<key>B</key>
+			<string>Saturn</string>
+			<key>C</key>
+			<string>Mars</string>
+			<key>D</key>
+			<string>Mercury</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which popular candy bar is named after the maker&apos;s favorite horse?</string>
+			<key>A</key>
+			<string>Milky Way</string>
+			<key>B</key>
+			<string>Snickers</string>
+			<key>C</key>
+			<string>Kit Kat</string>
+			<key>D</key>
+			<string>Reese&apos;s</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In the movie &quot;Top Gun&quot;, what is the name of Maverick&apos;s co-pilot?</string>
+			<key>A</key>
+			<string>Skid</string>
+			<key>B</key>
+			<string>Muskey</string>
+			<key>C</key>
+			<string>Rambo</string>
+			<key>D</key>
+			<string>Goose</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the two letter postal abbreviation for the state of Virginia?</string>
+			<key>A</key>
+			<string>VA</string>
+			<key>B</key>
+			<string>VI</string>
+			<key>C</key>
+			<string>VN</string>
+			<key>D</key>
+			<string>VG</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What was wrong with the Grinch&apos;s heart in, &quot;How the Grinch Stole Christmas&quot;?</string>
+			<key>A</key>
+			<string>He did not have one</string>
+			<key>B</key>
+			<string>it was black</string>
+			<key>C</key>
+			<string>It was two sizes too small</string>
+			<key>D</key>
+			<string>It was too cold</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What was the subject of many of Degas&apos; paintings?</string>
+			<key>A</key>
+			<string>Flowers</string>
+			<key>B</key>
+			<string>Ballet</string>
+			<key>C</key>
+			<string>Theatre</string>
+			<key>D</key>
+			<string>Birds</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What animal is said to have nurtured the founders of Rome, Romulus and Remus?</string>
+			<key>A</key>
+			<string>Wolf</string>
+			<key>B</key>
+			<string>Duck</string>
+			<key>C</key>
+			<string>Horse</string>
+			<key>D</key>
+			<string>Ealge</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What percent of a jellyfish is water?</string>
+			<key>A</key>
+			<string>85</string>
+			<key>B</key>
+			<string>60</string>
+			<key>C</key>
+			<string>93</string>
+			<key>D</key>
+			<string>95</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which company invented the floppy disk</string>
+			<key>A</key>
+			<string>Sun Microsystems</string>
+			<key>B</key>
+			<string>Microsoft</string>
+			<key>C</key>
+			<string>Apple</string>
+			<key>D</key>
+			<string>IBM</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The Guggenheim Museum is located in what city?</string>
+			<key>A</key>
+			<string>New York</string>
+			<key>B</key>
+			<string>Los Angeles</string>
+			<key>C</key>
+			<string>Atlanta</string>
+			<key>D</key>
+			<string>Chicago</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Who was the first American president to appear on the cover of &quot;People&quot; magazine?</string>
+			<key>A</key>
+			<string>Barack Obama</string>
+			<key>B</key>
+			<string>Dwight D. Eisenhower</string>
+			<key>C</key>
+			<string>Gerald Ford</string>
+			<key>D</key>
+			<string>John Kennedy</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Who was the fifth Beatle?</string>
+			<key>A</key>
+			<string>Paul McCartney</string>
+			<key>B</key>
+			<string>George Harrison</string>
+			<key>C</key>
+			<string>John Lennon</string>
+			<key>D</key>
+			<string>Pete Best</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the wealthiest country per capita in the world?</string>
+			<key>A</key>
+			<string>Quatar</string>
+			<key>B</key>
+			<string>Saudi Arabia</string>
+			<key>C</key>
+			<string>USA</string>
+			<key>D</key>
+			<string>Luxemburg</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the tallest tree species in North America?</string>
+			<key>A</key>
+			<string>Sitka Spruce</string>
+			<key>B</key>
+			<string>coniferous Coast Redwood</string>
+			<key>C</key>
+			<string>Coast Douglas-fir</string>
+			<key>D</key>
+			<string>Montezuma Cypress</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the most abundant metal on Earth?</string>
+			<key>A</key>
+			<string>Silver</string>
+			<key>B</key>
+			<string>Tin</string>
+			<key>C</key>
+			<string>Iron</string>
+			<key>D</key>
+			<string>Aluminum</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many hearts does an octopus have</string>
+			<key>A</key>
+			<string>1</string>
+			<key>B</key>
+			<string>2</string>
+			<key>C</key>
+			<string>3</string>
+			<key>D</key>
+			<string>4</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many rivers does Saudi Arabia have?</string>
+			<key>A</key>
+			<string>0</string>
+			<key>B</key>
+			<string>52</string>
+			<key>C</key>
+			<string>14</string>
+			<key>D</key>
+			<string>13</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What mathmatical base do computers use to function?</string>
+			<key>A</key>
+			<string>Base 2</string>
+			<key>B</key>
+			<string>Base 3</string>
+			<key>C</key>
+			<string>Base 10</string>
+			<key>D</key>
+			<string>Base 7</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In what city did Anne Frank write her diary?</string>
+			<key>A</key>
+			<string>Paris</string>
+			<key>B</key>
+			<string>Brussels</string>
+			<key>C</key>
+			<string>Münster</string>
+			<key>D</key>
+			<string>Amsterdam</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the largest land animal in the world?</string>
+			<key>A</key>
+			<string>Rhinoceros</string>
+			<key>B</key>
+			<string>Bobcat</string>
+			<key>C</key>
+			<string>Elephant</string>
+			<key>D</key>
+			<string>Giraffe</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which city is the Palace of Versailles nearest to?</string>
+			<key>A</key>
+			<string>London</string>
+			<key>B</key>
+			<string>Tokyo</string>
+			<key>C</key>
+			<string>Rome</string>
+			<key>D</key>
+			<string>Paris</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Who founded the first public library in the U.S.?</string>
+			<key>A</key>
+			<string>Benjamin Franklin</string>
+			<key>B</key>
+			<string>John Adams</string>
+			<key>C</key>
+			<string>Booker T. Washington</string>
+			<key>D</key>
+			<string>George Washington</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Who founded the first public library in the U.S.?</string>
+			<key>A</key>
+			<string>Benjamin Franklin</string>
+			<key>B</key>
+			<string>John Adams</string>
+			<key>C</key>
+			<string>Booker T. Washington</string>
+			<key>D</key>
+			<string>George Washington</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What subatomic particle has no charge?</string>
+			<key>A</key>
+			<string>Beta Particle</string>
+			<key>B</key>
+			<string>Proton</string>
+			<key>C</key>
+			<string>Alpha Particle</string>
+			<key>D</key>
+			<string>Neutron</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which car company owns the luxury automotive brand Lexus?</string>
+			<key>A</key>
+			<string>Toyota</string>
+			<key>B</key>
+			<string>Chevorlet</string>
+			<key>C</key>
+			<string>Ford</string>
+			<key>D</key>
+			<string>Hyundai</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which country is home to the Great Barrier Reef?</string>
+			<key>A</key>
+			<string>South Africa</string>
+			<key>B</key>
+			<string>Indonesia</string>
+			<key>C</key>
+			<string>Australia</string>
+			<key>D</key>
+			<string>New Zealand</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the best-known invention of Peace Prize founder Alfred Nobel?</string>
+			<key>A</key>
+			<string>Dynamite</string>
+			<key>B</key>
+			<string>Gunpowder</string>
+			<key>C</key>
+			<string>Ballpoint pen</string>
+			<key>D</key>
+			<string>Dog leash</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In the game &quot;Plants vs Zombies&quot;, what do players collect as currency?</string>
+			<key>A</key>
+			<string>Dirt</string>
+			<key>B</key>
+			<string>Sunlight</string>
+			<key>C</key>
+			<string>Seeds</string>
+			<key>D</key>
+			<string>Dollars</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What colour M&amp;Ms did not exist from 1976 to 1987?</string>
+			<key>A</key>
+			<string>Blue</string>
+			<key>B</key>
+			<string>Brown</string>
+			<key>C</key>
+			<string>Green</string>
+			<key>D</key>
+			<string>Red</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In soccer, how many yellow cards result in a red card?</string>
+			<key>A</key>
+			<string>One</string>
+			<key>B</key>
+			<string>Two</string>
+			<key>C</key>
+			<string>Three</string>
+			<key>D</key>
+			<string>Four</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What does GT stand for in the automotive world?</string>
+			<key>A</key>
+			<string>Gerard Torisa</string>
+			<key>B</key>
+			<string>Good Tires?</string>
+			<key>C</key>
+			<string>Grand Tourer</string>
+			<key>D</key>
+			<string>Grand Turismo</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What does an archer keep his arrows in?</string>
+			<key>A</key>
+			<string>Quiver</string>
+			<key>B</key>
+			<string>Holster</string>
+			<key>C</key>
+			<string>Socket</string>
+			<key>D</key>
+			<string>Bag</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the only letter of the alphabet with more than one syllable?</string>
+			<key>A</key>
+			<string>L</string>
+			<key>B</key>
+			<string>J</string>
+			<key>C</key>
+			<string>A</string>
+			<key>D</key>
+			<string>W</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the diameter of a basketball hoop?</string>
+			<key>A</key>
+			<string>18 inches</string>
+			<key>B</key>
+			<string>13 inches</string>
+			<key>C</key>
+			<string>20 inches</string>
+			<key>D</key>
+			<string>15 inches</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What prominent facial feature is Hello Kitty missing?</string>
+			<key>A</key>
+			<string>Nose</string>
+			<key>B</key>
+			<string>Mouth</string>
+			<key>C</key>
+			<string>Ears</string>
+			<key>D</key>
+			<string>Eyes</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many tiles does each player pick at the start of a game of Scrabble?</string>
+			<key>A</key>
+			<string>7</string>
+			<key>B</key>
+			<string>8</string>
+			<key>C</key>
+			<string>9</string>
+			<key>D</key>
+			<string>5</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What color flag is the signal for surrender?</string>
+			<key>A</key>
+			<string>Black</string>
+			<key>B</key>
+			<string>Red</string>
+			<key>C</key>
+			<string>Blue</string>
+			<key>D</key>
+			<string>White</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is Barbie&apos;s last name?</string>
+			<key>A</key>
+			<string>Bensen</string>
+			<key>B</key>
+			<string>Johnson</string>
+			<key>C</key>
+			<string>Roberts</string>
+			<key>D</key>
+			<string>McAdams</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Pancetta is derived from the meat of what animal?</string>
+			<key>A</key>
+			<string>Quail</string>
+			<key>B</key>
+			<string>Pig</string>
+			<key>C</key>
+			<string>Cow</string>
+			<key>D</key>
+			<string>Goat</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many quires are there in a ream?</string>
+			<key>A</key>
+			<string>100</string>
+			<key>B</key>
+			<string>20</string>
+			<key>C</key>
+			<string>50</string>
+			<key>D</key>
+			<string>33</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>At what age does a Jewish boy to celebrate his Bar Mitzvah?</string>
+			<key>A</key>
+			<string>13</string>
+			<key>B</key>
+			<string>15</string>
+			<key>C</key>
+			<string>12</string>
+			<key>D</key>
+			<string>14</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In what year did Ford first offer bucket seats on its automobiles?</string>
+			<key>A</key>
+			<string>1917</string>
+			<key>B</key>
+			<string>1921</string>
+			<key>C</key>
+			<string>1911</string>
+			<key>D</key>
+			<string>1903</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What type of tea is flavored with oil from the bergamot orange?</string>
+			<key>A</key>
+			<string>Dragonwell</string>
+			<key>B</key>
+			<string>White Blueberry</string>
+			<key>C</key>
+			<string>Orange</string>
+			<key>D</key>
+			<string>Earl Grey</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What cartoon character became the first licensed lunch box character in 1935?</string>
+			<key>A</key>
+			<string>Snow White</string>
+			<key>B</key>
+			<string>Goofy</string>
+			<key>C</key>
+			<string>Mickey Mouse</string>
+			<key>D</key>
+			<string>Cinderella</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What NASCAR Racer was nicknamed the &quot;Intimidator&quot;?</string>
+			<key>A</key>
+			<string>Jeff Gordon</string>
+			<key>B</key>
+			<string>Dale Earnhardt</string>
+			<key>C</key>
+			<string>Matt Kenseth</string>
+			<key>D</key>
+			<string>Danica Patrick</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How much does it cost to buy a utility in a standard game of Monopoly?</string>
+			<key>A</key>
+			<string>$150</string>
+			<key>B</key>
+			<string>$75</string>
+			<key>C</key>
+			<string>$50</string>
+			<key>D</key>
+			<string>$100</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the oldest marathon race in the US?</string>
+			<key>A</key>
+			<string>New York City Marathon</string>
+			<key>B</key>
+			<string>Chicago Marathon</string>
+			<key>C</key>
+			<string>Boston Marathon</string>
+			<key>D</key>
+			<string>D.C. Marathon</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The card game Patience is also known by what other name?</string>
+			<key>A</key>
+			<string>Blackjack</string>
+			<key>B</key>
+			<string>Poker</string>
+			<key>C</key>
+			<string>Solitare</string>
+			<key>D</key>
+			<string>President</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What gives beer its distinctive bitter flavour?</string>
+			<key>A</key>
+			<string>Wheat</string>
+			<key>B</key>
+			<string>Hops</string>
+			<key>C</key>
+			<string>Starch</string>
+			<key>D</key>
+			<string>Barley</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What do you need to send a semaphore message?</string>
+			<key>A</key>
+			<string>reflective material</string>
+			<key>B</key>
+			<string>horn</string>
+			<key>C</key>
+			<string>flags</string>
+			<key>D</key>
+			<string>smoke</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What relative does a Russian call &quot;babushka&quot;?</string>
+			<key>A</key>
+			<string>Father</string>
+			<key>B</key>
+			<string>Uncle</string>
+			<key>C</key>
+			<string>Sister</string>
+			<key>D</key>
+			<string>Grandmother</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What US state borders only one other?</string>
+			<key>A</key>
+			<string>Florida</string>
+			<key>B</key>
+			<string>Washington</string>
+			<key>C</key>
+			<string>Deleware</string>
+			<key>D</key>
+			<string>Maine</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What are A.C. Milan and Ajax?</string>
+			<key>A</key>
+			<string>Movies</string>
+			<key>B</key>
+			<string>Soccer teams</string>
+			<key>C</key>
+			<string>Elements</string>
+			<key>D</key>
+			<string>Cities</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The Ryder Cup is awarded in what sport?</string>
+			<key>A</key>
+			<string>Basketball</string>
+			<key>B</key>
+			<string>Golf</string>
+			<key>C</key>
+			<string>Hockey</string>
+			<key>D</key>
+			<string>Competitive Roller Skating</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>As what type of beans are chickpeas also known as?</string>
+			<key>A</key>
+			<string>Peanut</string>
+			<key>B</key>
+			<string>Soybean</string>
+			<key>C</key>
+			<string>Garbanzo</string>
+			<key>D</key>
+			<string>Lima</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>When was the Guinness beer brand first introduced?</string>
+			<key>A</key>
+			<string>1847</string>
+			<key>B</key>
+			<string>1759</string>
+			<key>C</key>
+			<string>1933</string>
+			<key>D</key>
+			<string>1802</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What was in the jaws of the swordfish mounted on the wall in the Addams Family house?</string>
+			<key>A</key>
+			<string>Skull</string>
+			<key>B</key>
+			<string>Human leg</string>
+			<key>C</key>
+			<string>A smaller fish</string>
+			<key>D</key>
+			<string>A goat</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What was the first building in the world to have more than 100 floors?</string>
+			<key>A</key>
+			<string>Jin Mao Tower</string>
+			<key>B</key>
+			<string>Empire State Building</string>
+			<key>C</key>
+			<string>Chrysler Building</string>
+			<key>D</key>
+			<string>Cayan Tower</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In the bible, how many Horsemen of the Apocalypse were there?</string>
+			<key>A</key>
+			<string>4</string>
+			<key>B</key>
+			<string>3</string>
+			<key>C</key>
+			<string>2</string>
+			<key>D</key>
+			<string>5</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In the TV show &quot;The Simpsons&quot;, what color is the Simpson&apos;s stove?</string>
+			<key>A</key>
+			<string>Grey</string>
+			<key>B</key>
+			<string>Red</string>
+			<key>C</key>
+			<string>Green</string>
+			<key>D</key>
+			<string>White</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the famous brewery founded in Dublin in 1759?</string>
+			<key>A</key>
+			<string>Heineken</string>
+			<key>B</key>
+			<string>Smithwicks</string>
+			<key>C</key>
+			<string>Harp</string>
+			<key>D</key>
+			<string>Guinness</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which French artist, born in 1834 was best known for his paintings of ballet dancers?</string>
+			<key>A</key>
+			<string>Edgar Degas</string>
+			<key>B</key>
+			<string>Claude Monet</string>
+			<key>C</key>
+			<string>Vincent Van Gogh</string>
+			<key>D</key>
+			<string>Édouard Manet</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What does legend say started the great Chicago fire of 1871?</string>
+			<key>A</key>
+			<string>A cow</string>
+			<key>B</key>
+			<string>An arsonist</string>
+			<key>C</key>
+			<string>Fireflies</string>
+			<key>D</key>
+			<string>The wind</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What company produced the &quot;Brownie&quot; camera?</string>
+			<key>A</key>
+			<string>Cannon</string>
+			<key>B</key>
+			<string>Kodak</string>
+			<key>C</key>
+			<string>Nikon</string>
+			<key>D</key>
+			<string>Panasonic</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Who was the model for the official NBA logo?</string>
+			<key>A</key>
+			<string>Wilt Chamberlain</string>
+			<key>B</key>
+			<string>Billy Cunningham</string>
+			<key>C</key>
+			<string>Jerry West</string>
+			<key>D</key>
+			<string>Larry Bird</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many strings do most guitars have?</string>
+			<key>A</key>
+			<string>5</string>
+			<key>B</key>
+			<string>6</string>
+			<key>C</key>
+			<string>7</string>
+			<key>D</key>
+			<string>8</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>When transatlantic telephones were invented, a 3-minute call between New York and London cost how much?</string>
+			<key>A</key>
+			<string>$15</string>
+			<key>B</key>
+			<string>$35</string>
+			<key>C</key>
+			<string>$75</string>
+			<key>D</key>
+			<string>$100</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the official state animal of the US state of Oregon?</string>
+			<key>A</key>
+			<string>Hawk</string>
+			<key>B</key>
+			<string>Duck</string>
+			<key>C</key>
+			<string>Black Bear</string>
+			<key>D</key>
+			<string>Beaver</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which month&apos;s name is derived from the Latin word for eight?</string>
+			<key>A</key>
+			<string>August</string>
+			<key>B</key>
+			<string>October</string>
+			<key>C</key>
+			<string>March</string>
+			<key>D</key>
+			<string>June</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In which decade did Winston Churchill win the Nobel prize for literature?</string>
+			<key>A</key>
+			<string>1930&apos;s</string>
+			<key>B</key>
+			<string>1960&apos;s</string>
+			<key>C</key>
+			<string>1950&apos;s</string>
+			<key>D</key>
+			<string>1940&apos;s</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Whose music is featured in the musical movie Mamma Mia!?</string>
+			<key>A</key>
+			<string>Olivia Newton-John</string>
+			<key>B</key>
+			<string>Britney Spears</string>
+			<key>C</key>
+			<string>Ace of Base</string>
+			<key>D</key>
+			<string>ABBA</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What farm animal did George Washington introduce to the US?</string>
+			<key>A</key>
+			<string>Mule</string>
+			<key>B</key>
+			<string>Pig</string>
+			<key>C</key>
+			<string>Horse</string>
+			<key>D</key>
+			<string>Cow</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Shortbread originated in what country?</string>
+			<key>A</key>
+			<string>Spain</string>
+			<key>B</key>
+			<string>Scotland</string>
+			<key>C</key>
+			<string>England</string>
+			<key>D</key>
+			<string>France</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What deadly disease is also known a hydrophobia?</string>
+			<key>A</key>
+			<string>Tuberculosis</string>
+			<key>B</key>
+			<string>Alcohol poisoning</string>
+			<key>C</key>
+			<string>Water intoxication</string>
+			<key>D</key>
+			<string>Rabies</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What does the Latin word &quot;circa&quot; before a date mean?</string>
+			<key>A</key>
+			<string>Before</string>
+			<key>B</key>
+			<string>After</string>
+			<key>C</key>
+			<string>About</string>
+			<key>D</key>
+			<string>in</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the official language of Liechtenstein?</string>
+			<key>A</key>
+			<string>French</string>
+			<key>B</key>
+			<string>German</string>
+			<key>C</key>
+			<string>Italian</string>
+			<key>D</key>
+			<string>Turkish</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many South American Countries does the equator pass through?</string>
+			<key>A</key>
+			<string>2</string>
+			<key>B</key>
+			<string>3</string>
+			<key>C</key>
+			<string>4</string>
+			<key>D</key>
+			<string>5</string>
+			<key>Answer</key>
+			<string>B</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the name for a baby alligator?</string>
+			<key>A</key>
+			<string>Hatchling</string>
+			<key>B</key>
+			<string>Shoat</string>
+			<key>C</key>
+			<string>Pullet</string>
+			<key>D</key>
+			<string>Sprag</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the main ingredient used to make pesto sauce?</string>
+			<key>A</key>
+			<string>Garlic</string>
+			<key>B</key>
+			<string>Pine Nuts</string>
+			<key>C</key>
+			<string>Basil</string>
+			<key>D</key>
+			<string>Salt</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In which decade was the first electric guitar made?</string>
+			<key>A</key>
+			<string>1910&apos;s</string>
+			<key>B</key>
+			<string>1920&apos;s</string>
+			<key>C</key>
+			<string>1930&apos;s</string>
+			<key>D</key>
+			<string>1940&apos;s</string>
+			<key>Answer</key>
+			<string>C</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the only US state that borders a Canadian territory and not a providence?</string>
+			<key>A</key>
+			<string>Montana</string>
+			<key>B</key>
+			<string>Maine</string>
+			<key>C</key>
+			<string>Washington</string>
+			<key>D</key>
+			<string>Alaska</string>
+			<key>Answer</key>
+			<string>D</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the only breed of cat that does not have retractable claws?</string>
+			<key>A</key>
+			<string>Cheetah</string>
+			<key>B</key>
+			<string>Panther</string>
+			<key>C</key>
+			<string>Lion</string>
+			<key>D</key>
+			<string>Oclelot</string>
+			<key>Answer</key>
+			<string>A</string>
+		</dict>
+	</array>
+</dict>
+</plist>
