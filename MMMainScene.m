@@ -167,10 +167,9 @@ static const uint32_t dogCategory = 0x1 << 1;
 -(void)newmonster
 {
     //monster
-    monster = [SKSpriteNode spriteNodeWithImageNamed:@"Monster_1"];
+    monster = [SKSpriteNode spriteNodeWithImageNamed:@"Monster"];
     monster.position = CGPointMake(CGRectGetMidX(self.frame)-300, CGRectGetMidY(self.frame)-120);
     monster.Scale = 1.5;
-    [monster runAction:[SKAction repeatActionForever:monsteranimation]];
     monster.name = @"monster";
     
     CGMutablePathRef path = CGPathCreateMutable();
@@ -267,41 +266,10 @@ static const uint32_t dogCategory = 0x1 << 1;
 
 -(void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event
 {
-    //UITouch * touch = [touches anyObject];
-    //CGPoint location = [touch locationInNode:self];
-    
     A.fontColor = fontColor;
     B.fontColor = fontColor;
     C.fontColor = fontColor;
     D.fontColor = fontColor;
-    /*
-    if ([A containsPoint:location] && [Answer  isEqual:@"A"])
-    {
-        jumpCredits++;
-        [self newQuestion];
-    }
-    else if ([B containsPoint:location] && [Answer  isEqual:@"B"])
-    {
-        jumpCredits++;
-        [self newQuestion];
-
-    }
-    else if ([C containsPoint:location] && [Answer  isEqual:@"C"])
-    {
-        jumpCredits++;
-        [self newQuestion];
-
-    }
-    else if ([D containsPoint:location] && [Answer  isEqual:@"D"])
-    {
-        jumpCredits++;
-        [self newQuestion];
-
-    }
-    else if ([A containsPoint:location] || [B containsPoint:location] || [C containsPoint:location] || [D containsPoint:location])
-    {
-        score = score-5;
-    } */
 
     if ([selected isEqualToString:Answer]) {
         selected = nil;
@@ -340,11 +308,6 @@ static const uint32_t dogCategory = 0x1 << 1;
     SKTexture *f6 = [dogatlas textureNamed:@"dog_6.png"];
     NSArray *doganim = @[f1,f2,f3,f4,f5,f6];
     doganimation = [SKAction animateWithTextures:doganim timePerFrame:0.1];
-    
-    SKTexture *mf1 =  [SKTexture textureWithImageNamed:@"Monster_1"];
-    SKTexture *mf2 =  [SKTexture textureWithImageNamed:@"Monster_2"];
-    NSArray *monsteranim = @[mf1,mf2];
-    monsteranimation = [SKAction animateWithTextures:monsteranim timePerFrame:0.5];
     
     SKAction* moveUp = [SKAction moveByX:0 y:90 duration:.6];
     SKAction* moveDown = [SKAction moveByX:0 y:-90 duration:0.4];
@@ -407,10 +370,6 @@ static const uint32_t dogCategory = 0x1 << 1;
     SKScene *nextScene = [[MMMenuScene alloc] initWithSize:self.size];
     SKTransition *fade = [SKTransition pushWithDirection:SKTransitionDirectionDown duration:1];
     [self.view presentScene:nextScene transition:fade];
-  /*[self removeAllChildren];
-    [self removeAllActions];
-    [self removeFromParent];
-    NSLog(@"RESURECTION");*/
 }
 
 -(void)newQuestion
@@ -419,7 +378,6 @@ static const uint32_t dogCategory = 0x1 << 1;
     NSLog(@"New Question with id: %i",currentQuestion);
     QuestionsDict = [NSDictionary dictionaryWithDictionary:
                      [QuestionsArray objectAtIndex:currentQuestion]];
-    //NSLog(@"%@",QuestionsDict);
     Answer = [QuestionsDict objectForKey:@"Answer"];
     
     Question.text = [QuestionsDict objectForKey:@"Question"];
@@ -459,7 +417,6 @@ static const uint32_t dogCategory = 0x1 << 1;
 
 -(void)update:(CFTimeInterval)currentTime
 {
-    //NSLog(@"%d",score/5);
     
     SKLabelNode *life = (SKLabelNode*)[self childNodeWithName:@"life"];
     life.text = [NSString stringWithFormat:@"Lives: % i", lives];
